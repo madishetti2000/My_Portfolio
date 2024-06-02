@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python,SQL,Artificial Intelligence,Machine Learning,Tableau,Power BI,Advance Excel
+#### Technical Skills: Python, SQL, Tableau, Power BI, Advance Excel, Artificial Intelligence, Machine Learning
 
 ### Education
 - Bachelor of Technology., Electronics and Communications Engineering | Talla Padmavathi College of Engineering(_July 2022_)
