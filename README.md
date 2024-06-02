@@ -3,9 +3,9 @@
 #### Technical Skills: Python,SQL,Artificial Intelligence,Machine Learning,Tableau,Power BI,Advance Excel
 
 ### Education
--Bachelor of Technology., Electronics and Communications Engineering | Talla Padmavathi College of Engineering(_July 2022_)
--Intermediate., Mathematics | Shivani Junior College (_March 2018_)
--Highschool., SSC | Pragathi Vidya Nilayam (_April 2016_)
+- Bachelor of Technology., Electronics and Communications Engineering | Talla Padmavathi College of Engineering(_July 2022_)
+- Intermediate., Mathematics | Shivani Junior College (_March 2018_)
+- Highschool., SSC | Pragathi Vidya Nilayam (_April 2016_)
 
 ### Work Experience
 **Data Analyst @ S&P Global (_August 2023 - present_)**
