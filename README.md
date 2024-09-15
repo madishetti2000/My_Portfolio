@@ -85,7 +85,7 @@ _Hyderabad, Telangana | Nov 2022 - May 2023_
 - Created an interactive Tableau dashboard summarizing residential broadband subscriptions in the US for Q3 2023.
 - Visualized key performance indicators and analyzed subscription trends relative to population density.
 
-### Python Projects [Publication](https://github.com/madishetti2000/Python_Projects)
+### Python Projects [Repository](https://github.com/madishetti2000/Python_Projects)
 **Technologies:** Python
 
 - Developed Python scripts for data analysis and automation, enhancing workflow efficiency by 30%.
@@ -101,7 +101,7 @@ _Hyderabad, Telangana | Nov 2022 - May 2023_
 
 ## Honors & Awards
 
-- **Rising Star Award** [Publication](https://badges.spglobal.com/f8c95a78-ed7c-4cb8-b430-bfba9d54f85e#gs.engi51)
+- **Rising Star Award** [Badge](https://badges.spglobal.com/f8c95a78-ed7c-4cb8-b430-bfba9d54f85e#gs.engi51)
   Essential Excellence Awards - 1H 2024 at S&P Global  
   Recognized for outstanding contributions to critical processes and initiatives, demonstrating exceptional expertise and dedication within the first year of tenure.
 
