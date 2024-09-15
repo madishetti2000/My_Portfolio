@@ -6,8 +6,8 @@ Welcome to my GitHub portfolio! I am a Data Analyst with experience in SQL, Pyth
 - **Email:** [bhargav.dataengineer@gmail.com](mailto:bhargav.dataengineer@gmail.com)
 - **Phone:** +91 7997257426
 - **Location:** Hyderabad, India
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/bhargav-madishetti-2830a724a)
-- **GitHub:** [Your GitHub Profile](https://github.com/madishetti2000)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/bhargav-madishetti-2830a724a)
+- **GitHub:** [My GitHub Profile](https://github.com/madishetti2000)
 
 ## Education
 - **Bachelor of Technology in Electronics and Communications Engineering**  
@@ -85,9 +85,9 @@ _Hyderabad, Telangana | Nov 2022 - May 2023_
 - Created an interactive Tableau dashboard summarizing residential broadband subscriptions in the US for Q3 2023.
 - Visualized key performance indicators and analyzed subscription trends relative to population density.
 
-### Python Projects
+### Python Projects [Publication](https://github.com/madishetti2000/Python_Projects)
 **Technologies:** Python
-[Publication](https://github.com/madishetti2000/Python_Projects)
+
 - Developed Python scripts for data analysis and automation, enhancing workflow efficiency by 30%.
 - Utilized Pandas and NumPy for data manipulation and visualization.
 - Created automated data pipelines, reducing manual processing time by 40%.
@@ -101,8 +101,7 @@ _Hyderabad, Telangana | Nov 2022 - May 2023_
 
 ## Honors & Awards
 
-- **Rising Star Award**
-  [Publication](https://badges.spglobal.com/f8c95a78-ed7c-4cb8-b430-bfba9d54f85e#gs.engi51)
+- **Rising Star Award** [Publication](https://badges.spglobal.com/f8c95a78-ed7c-4cb8-b430-bfba9d54f85e#gs.engi51)
   Essential Excellence Awards - 1H 2024 at S&P Global  
   Recognized for outstanding contributions to critical processes and initiatives, demonstrating exceptional expertise and dedication within the first year of tenure.
 
