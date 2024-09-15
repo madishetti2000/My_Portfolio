@@ -102,7 +102,7 @@ _Hyderabad, Telangana | Nov 2022 - May 2023_
 ## Honors & Awards
 
 - **Rising Star Award** 
-  Essential Excellence Awards - 1H 2024 at S&P Global. [Badge](https://badges.spglobal.com/f8c95a78-ed7c-4cb8-b430-bfba9d54f85e#gs.engi51)
+  Essential Excellence Awards - 1H 2024 at S&P Global [Badge](https://badges.spglobal.com/f8c95a78-ed7c-4cb8-b430-bfba9d54f85e#gs.engi51)
   Recognized for outstanding contributions to critical processes and initiatives, demonstrating exceptional expertise and dedication within the first year of tenure.
 
 
