@@ -1,73 +1,110 @@
-# Data Analyst
+# Bhargav Madishetti - Data Analyst
 
-#### Technical Skills: Python, SQL, Tableau, Power BI, Advance Excel, Artificial Intelligence, Machine Learning
+Welcome to my GitHub portfolio! I am a Data Analyst with experience in SQL, Python, Power BI, Tableau, and advanced Excel. My expertise includes data visualization, statistical analysis, and automating data workflows.
 
-### Education
-- Bachelor of Technology., Electronics and Communications Engineering | Talla Padmavathi College of Engineering(_July 2022_)
-- Intermediate., Mathematics | Shivani Junior College (_March 2018_)
-- Highschool., SSC | Pragathi Vidya Nilayam (_April 2016_)
+## Contact Information
+- **Email:** [bhargav.dataengineer@gmail.com](mailto:bhargav.dataengineer@gmail.com)
+- **Phone:** +91 7997257426
+- **Location:** Hyderabad, India
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/bhargav-madishetti-2830a724a)
+- **GitHub:** [Your GitHub Profile](https://github.com/madishetti2000)
 
-### Work Experience
-**Data Analyst @ S&P Global (_August 2023 - present_)**
-- Analyzed film data in the USA, identifying key trends that enhanced profitability by 15%.
-- Led a comprehensive film data collection project, creating a robust database for market research.
-- signed and deployed a Power BI dashboard for media census, streamlining operational work flows by 20%.
-- Developed a Tableau dashboard for Q3 2023 residential broadband subscriptions, enabling efficient analysis of key metrics.
-- Automated data storage in AWS S3, improving data access speed by 30%.
-- Implemented the Kagan Excel Loader, optimizing data loading processes and enhancing efficiency.
-  
-**Data Analyst Intern @ AI Variant (November 2022 - May 2023_)**
-- Gathered and validated data from multiple sources to ensure data integrity for analysis.
-- Transformed raw data into structured formats using Excel and Python, facilitating easy interpretation.
-- Conducted data analysis using SQL and statistical methods to identify trends and patterns.
-- Developed a predictive sales model, aiding data-driven business decisions.
-- Collaborated on a project that delivered a predictive model, enhancing sales forecasting accuracy by 25%.
+## Education
+- **Bachelor of Technology in Electronics and Communications Engineering**  
+  Talla Padmavathi College of Engineering, Warangal  
+  _July 2018 - July 2022_  
+  CGPA: 6.40
+
+- **Higher Secondary Certificate in Mathematics, Physics, and Chemistry**  
+  Shivani Junior College, Warangal  
+  _July 2016 - March 2018_  
+  Percentage: 93.1%
+
+- **Secondary School Certificate**  
+  Pragathi Vidya Nilayam, Palakurthi  
+  _July 2006 - April 2016_  
+  GPA: 9.2
+
+## Experience
+
+### Data Analyst
+**S&P Capital IQ (India) Private Limited**  
+_Hyderabad, India | Aug 2023 – Present_
+
+- Utilize SQL, Power BI, and Tableau for efficient ETL processes and thorough data analysis.
+- Automate data extraction, manipulation, and analysis workflows using Python.
+- Manage and update Tableau visualizations regularly to ensure accurate, up-to-date data that drives actionable insights and aligns with business goals.
+- Lead Tableau and Power BI projects, creating impactful visualizations for decision-making.
+- Ensure data integrity through rigorous validation and quality control.
+- Analyze complex datasets to uncover trends and present findings in reports and interactive dashboards.
+- Optimize reporting processes using advanced Excel functions.
+- Perform web scraping with Python for enhanced data collection.
+- Manage data in Amazon S3 for secure and efficient storage.
+- Foster team development by sharing best practices in data analysis and visualization.
+
+### Data Analyst Intern
+**AI Variant**  
+_Hyderabad, Telangana | Nov 2022 - May 2023_
+
+- Extracted insights from large datasets using SQL, Python, and R, collaborating on data-driven solutions.
+- Created dynamic, data-driven dashboards in Tableau and Power BI to effectively present complex information.
+- Delivered key findings to senior management and stakeholders, enabling informed business decisions.
+- Enhanced analytical and problem-solving capabilities through hands-on experience in a fast-paced, results-oriented environment.
+
+## Skills
+
+- **Programming Languages:** Python
+- **Data Visualization & BI:** Power BI, Tableau
+- **Data Management & Analysis:** MySQL, Advanced Excel, Statistics
+- **Cloud Platforms:** AWS S3
 
 ## Projects
-### Fast Moving Consumer Goods - Sales Analysis
-Technologies used: Advance Excel, Power BI, Tableau, MySQL
+
+### Zepto Sales Analysis
+**Technologies:** Advanced Excel, Power BI, Tableau, MySQL
 
 - Managed a large-scale customer and sales dataset, ensuring data collection, cleaning, and validation.
 - Applied data mining techniques to uncover critical trends and patterns, improving sales strategies by 20%.
-- Conducted statistical analysis to develop a robust sales forecasting model, enhancing predictive accuracy by 25%.
-- Provided actionable insights from the model, enabling data-driven decision-making for business growth.
-  
-### Zomato - Sales Analysis
-Technologies used: Advance Excel, Power BI, Tableau, MySQL
+- Developed a sales forecasting model, enhancing predictive accuracy by 25%.
+
+### Zomato Sales Analysis
+**Technologies:** Advanced Excel, Power BI, Tableau, MySQL
 
 - Designed and built an interactive geospatial dashboard with country maps, currency data, and a dynamic calendar table.
 - Enabled flexible, in-depth analysis of restaurant data across various locations, time frames, and pricing trends.
-- Delivered a comprehensive dashboard that empowered data-driven decision-making and strategic planning for restaurant operations.
-  
+
 ### Media Census Dashboard
-Technologies used: Advance Excel, Power BI, MySQL
+**Technologies:** Power BI, MySQL, Advanced Excel
 
 - Developed an interactive Power BI dashboard for media census data, facilitating granular analysis by client, report, and turnaround time.
-- Streamlined client access to key metrics such as turnaround time and data accuracy, enhancing transparency and efficiency.
-- Promoted faster decision-making through interactive visualizations and comprehensive data exploration tools.
-- Enabled clients to identify and resolve data issues promptly, improving operational workflows by 15%.
-  
+- Streamlined client access to key metrics, enhancing transparency and efficiency.
+
 ### Residential Broadband Subscription Estimate
-Technologies used: Advance Excel, Tableau, MySQL
+**Technologies:** Tableau, MySQL, Advanced Excel
 
 - Created an interactive Tableau dashboard summarizing residential broadband subscriptions in the US for Q3 2023.
-- Visualized key performance indicators, including company-wise market share, subscription distribution by technology type, and geographic breakdowns.
-- Analyzed subscription trends relative to population density, providing valuable insights for market strategy development.
-- Improved data accessibility and presentation, facilitating informed decision-making for broadband service providers.
-  
+- Visualized key performance indicators and analyzed subscription trends relative to population density.
+
 ### Python Projects
+**Technologies:** Python
 [Publication](https://github.com/madishetti2000/Python_Projects)
-Technologies used: Python, Pandas, NumPy
+- Developed Python scripts for data analysis and automation, enhancing workflow efficiency by 30%.
+- Utilized Pandas and NumPy for data manipulation and visualization.
+- Created automated data pipelines, reducing manual processing time by 40%.
 
-- Developed a suite of Python scripts for data analysis and automation, enhancing workflow efficiency by 30%.
-- Utilized Pandas and NumPy libraries for data manipulation and visualization, streamlining data processing tasks.
-- Created automated data pipelines that reduced manual processing time by 40%, increasing overall productivity.
-- Implemented machine learning models to predict trends, contributing to strategic decision-making processes.
-- Conducted exploratory data analysis (EDA) to identify key insights and patterns, supporting data-driven business solutions.
+## Certifications
 
-### Certifications
-- Data Analyst in Python - Dataquest
 - Data Analyst in SQL - DataCamp
 - Data Visualization - IBM
 - Introduction to Python for Data Science and Data Engineering - Databricks
-- Python for Data Science - IBM.
+- AI - Data Scientist - APPC
+
+## Honors & Awards
+
+- **Rising Star Award**
+  [Publication](https://badges.spglobal.com/f8c95a78-ed7c-4cb8-b430-bfba9d54f85e#gs.engi51)
+  Essential Excellence Awards - 1H 2024 at S&P Global  
+  Recognized for outstanding contributions to critical processes and initiatives, demonstrating exceptional expertise and dedication within the first year of tenure.
+
+
+
